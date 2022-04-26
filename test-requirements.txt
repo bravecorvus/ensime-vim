@@ -1,0 +1,12 @@
+# === Test ===
+coverage~=4.2
+aloe~=0.1.15
+mock~=2.0
+pytest~=2.9
+pytest-mock~=1.1
+
+# === Dev Tooling ===
+flake8~=2.5
+flake8-import-order~=0.8
+autopep8~=1.2
+virtualenv~=15.0
